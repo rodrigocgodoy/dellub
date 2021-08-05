@@ -1,0 +1,32 @@
+{
+  "pages": {
+    "maintenance": {
+      "title": "Ooh!!!",
+			"description": "Sorry, our page is down for maintenance.",
+			"seo": {
+				"title": "Page under maintenance",
+				"description": "Page under maintenance"
+			}
+    },
+		"404": {
+			"title": "Ooh!!! No",
+			"description": "Page not found",
+			"link": "To home",
+			"seo": {
+				"title": "Error 404",
+				"description": "Error 404"
+			}
+		}
+  },
+	"components": {
+		"header": {
+			"title": "Dellub Software",
+			"links": {
+				"home": "Home",
+				"about-me": "About me",
+				"cases": "Cases",
+				"contact-us": "Contact us"
+			}
+		}
+	}
+}

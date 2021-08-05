@@ -1,0 +1,35 @@
+{
+  "pages": {
+    "home": {
+      "title": "Home",
+			"description": "Home",
+			"seo": {
+				"title": "Home",
+				"description": "Home"
+			}
+    },
+		"404": {
+			"title": "Error 404",
+			"description": "Página não encontrada",
+			"link": "Ir para home",
+			"seo": {
+				"title": "Error 404",
+				"description": "Dellub software"
+			}
+		}
+  },
+	"components": {
+		"header": {
+			"title": "Dellub Software",
+			"links": {
+				"about": "Sobre",
+				"clients": "Clientes",
+				"services": "Serviços",
+				"process": "Processo",
+				"projects": "Projetos",
+				"depositions": "Depoimentos"
+			},
+			"button-budget": "Orçamento"
+		}
+	}
+}
